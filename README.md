@@ -1,10 +1,6 @@
-```
-   ____                 _ _         _ 
-  |  _ \ __ _        _ (_) |_ ____ | |
-  | |_) / _` |______(_)| | __|_  / | |
-  |  _ < (_| |______|_ | | |_ / /  |_|
-  |_| \_\__,_|         |_|\__/___| (_)
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=140&section=header&text=Ra-pitzsch&fontSize=42&fontColor=61DAFB&fontAlignY=40&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=compilando+ideias+em+c%C3%B3digo...;estudante+de+inform%C3%A1tica+(FEMA);sempre+com+um+projeto+pessoal+rodando" />
@@ -48,14 +44,8 @@
 ### `$ ./stats.sh`
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ra-pitzsch&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Ra-pitzsch&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ra-pitzsch&theme=dark&hide_border=true&background=0d1117" width="48%" />
-</p>
-
-### `$ cat trophies.log`
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ra-pitzsch&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ### `$ ping contato`
