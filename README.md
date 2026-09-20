@@ -1,13 +1,12 @@
 ```
- ███   ███  ████  █████        ██          ███   ███  █████ █████ █████ █████ 
-█     █   █ █   █ █           █  █        █     █   █ █     █     █     █     
-█     █   █ █   █ ███          ██         █     █   █ ███   ███   ███   ███   
-█     █   █ █   █ █           █ █         █     █   █ █     █     █     █     
- ███   ███  ████  █████       ██ █         ███   ███  █     █     █████ █████ 
+████   ███        ████  █████ █████ █████  ████  ███  █   █ 
+█   █ █   █       █   █   █     █      █  █     █     █   █ 
+████  █████ █████ ████    █     █     █    ███  █     █████ 
+█  █  █   █       █       █     █    █        █ █     █   █ 
+█   █ █   █       █     █████   █   █████ ████   ███  █   █ 
 ```
 
-<h1 align="center">Ra-pitzsch</h1>
-<p align="center">Full stack (mais front) em formação · buscando meu primeiro projeto freelancer</p>
+<p align="center">Full stack em formação · buscando meu primeiro projeto freelancer</p>
 
 <p align="center">
   <a href="https://github.com/Ra-pitzsch"><img src="https://img.shields.io/badge/GitHub-Ra--pitzsch-0047AB?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -79,5 +78,4 @@ Conversão de um app educacional de React Native para React + Vite. Quiz progres
 Buscando meu primeiro projeto freelancer — se você tem uma ideia pequena e quer dar uma chance pra alguém com vontade de entregar, me chama!
 
 <!-- Troque pelas suas informações reais -->
-- 📧 seu-email@exemplo.com
-- 💼 linkedin.com/in/seu-perfil
+- rogeriopitzsch248@gmail.com
